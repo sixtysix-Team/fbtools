@@ -24,6 +24,7 @@ clear
 toilet -f standard " BLANK " -F gay
 sleep 2
 clear
+figlet Facebook | lolcat
 
 echo $y"∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞
 
@@ -61,7 +62,7 @@ echo""
 echo""
 echo $c"1. BruteForce Facebook MBF "
 echo $c"∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞"
-echo $r"2. BruteForce Facebook ₪ "
+echo $r"2. BruteForce Facebook  "
 echo $r"∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞"
 echo $g"3. Cloning Yahoo "
 echo $g"∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞"
