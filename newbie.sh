@@ -87,9 +87,9 @@ python2 MBF.py
 
 2) clear
 toilet -f standard " BLANK " -F gay
-git clone https://github.com/IqbalzNoobs/fb-brute
-cd fb-brute
-python2 brute.py
+git clone https://github.com/sixtysix-Team/fbbrute
+cd fbbrute
+python2 force.py
 
 ;;
 
@@ -153,9 +153,9 @@ python2 MBF.py
 
 2) clear
 toilet -f standard " BLANK " -F gay
-git clone https://github.com/IqbalzNoobs/fb-brute
-cd fb-brute
-python2 brute.py
+git clone https://github.com/sixtysix-Team/fbbrute
+cd fbbrute
+python2 force.py
 
 ;;
 
@@ -219,9 +219,9 @@ python2 MBF.py
 
 2) clear
 toilet -f standard " BLANK " -F gay
-git clone https://github.com/IqbalzNoobs/fb-brute
-cd fb-brute
-python2 brute.py
+git clone https://github.com/sixtysix-Team/fbbrute
+cd fbbrute
+python2 force.py
 
 ;;
 
@@ -284,9 +284,9 @@ python2 MBF.py
 
 2) clear
 toilet -f standard " BLANK " -F gay
-git clone https://github.com/IqbalzNoobs/fb-brute
-cd fb-brute
-python2 brute.py
+git clone https://github.com/sixtysix-Team/fbbrute
+cd fbbrute
+python2 force.py
 
 ;;
 
@@ -349,9 +349,9 @@ python2 MBF.py
 
 2) clear
 toilet -f standard " BLANK " -F gay
-git clone https://github.com/IqbalzNoobs/fb-brute
-cd fb-brute
-python2 brute.py
+git clone https://github.com/sixtysix-Team/fbbrute
+cd fbbrute
+python2 force.py
 
 ;;
 
@@ -414,9 +414,9 @@ python2 MBF.py
 
 2) clear
 toilet -f standard " BLANK " -F gay
-git clone https://github.com/IqbalzNoobs/fb-brute
-cd fb-brute
-python2 brute.py
+git clone https://github.com/sixtysix-Team/fbbrute
+cd fbbrute
+python2 force.py
 
 ;;
 
@@ -479,9 +479,9 @@ python2 MBF.py
 
 2) clear
 toilet -f standard " BLANK " -F gay
-git clone https://github.com/IqbalzNoobs/fb-brute
-cd fb-brute
-python2 brute.py
+git clone https://github.com/sixtysix-Team/fbbrute
+cd fbbrute
+python2 force.py
 
 ;;
 
@@ -544,9 +544,9 @@ python2 MBF.py
 
 2) clear
 toilet -f standard " BLANK " -F gay
-git clone https://github.com/IqbalzNoobs/fb-brute
-cd fb-brute
-python2 brute.py
+git clone https://github.com/sixtysix-Team/fbbrute
+cd fbbrute
+python2 force.py
 
 ;;
 
@@ -609,9 +609,9 @@ python2 MBF.py
 
 2) clear
 toilet -f standard " BLANK " -F gay
-git clone https://github.com/IqbalzNoobs/fb-brute
-cd fb-brute
-python2 brute.py
+git clone https://github.com/sixtysix-Team/fbbrute
+cd fbbrute
+python2 force.py
 
 ;;
 
